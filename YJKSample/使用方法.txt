@@ -1,0 +1,5 @@
+4つのフォルダを、フォルダごとTomcat内のwebappsフォルダの直下に配置してください。
+・YJKSample06
+・YJKSample07
+・YJKSample08
+・YJKSample10
